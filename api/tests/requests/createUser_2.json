@@ -1,0 +1,14 @@
+{
+	"login" : "K-Juice",
+	"firstname" : "Kamil",
+	"lastname" : "Jopek",
+ 	"password" : "password",
+	"email" : "kjopek@email.com",
+	"city" : "Stuttgart",
+	"country" : "Germany",
+	"bio" : "Let's Get Schwifty",
+	"picture" : "",
+	"phonenumber" : "092299344",
+	"signupdate" : "",
+	"gender" : "male"
+}

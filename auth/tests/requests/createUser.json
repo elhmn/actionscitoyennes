@@ -1,0 +1,14 @@
+{
+	"login" : "user12",
+	"firstname" : "Boris",
+	"lastname" : "Mbarga",
+ 	"password" : "password",
+	"email" : "bmbarg@email.com",
+	"city" : "Yaounde",
+	"country" : "Cameroun",
+	"bio" : "Je suis con",
+	"picture" : "",
+	"phonenumber" : "092299344",
+	"signupdate" : "10",
+	"gender" : "male"
+}

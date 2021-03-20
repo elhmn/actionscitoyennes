@@ -1,0 +1,168 @@
+@font-face {
+  font-family: amatics;
+  src: url(../fonts/AmaticSC-Regular.ttf);
+}
+
+@font-face {
+  font-family: amatics;
+  src: url(../fonts/Amatic-Bold.ttf);
+  font-weight: bold;
+}
+
+
+#featured-actions-section
+{
+	padding-bottom: 2rem;
+}
+
+#done-actions-section
+{
+	min-height: 500px;
+}
+
+
+
+#search-section
+{
+	min-height: 80vh;
+	background-image: url("../imgs/stock/home_banner_1.jpeg");
+	background-size: cover;
+	background-position: center;
+	padding-bottom: 100px;
+	color: white;
+}
+
+#search-section-title
+{
+	font-size: 3.5rem;
+	margin-bottom: 10px;
+	text-shadow: 1px 1px 2px #023077;
+}
+
+#search-section-detail-1
+{
+	text-shadow: 1px 1px 2px #023077;
+	font-size: 1.8rem;
+}
+
+#home-search-button {
+	height: 50px;
+	font-size: 20px;
+	box-shadow: 1px 1px 2px #023077;
+	margin-top: 4rem;
+}
+
+#explain-participation-section
+{
+	font-size: 1.8rem;
+	min-height: 500px;
+}
+
+.explain-participation-element
+{
+	min-width: 200px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#explain-create-section
+{
+	min-height: 600px;
+}
+
+#explain-create-section-title
+{
+	margin-top: 150px;
+	font-size: 2.5rem;
+}
+
+.explain-create-img-icon
+{
+	width: 10rem;
+}
+
+#explain-create-section-detail-1
+{
+	font-size: 1.2rem;
+}
+
+#create-section
+{
+	min-height: 500px;
+}
+
+#create-container
+{
+	background-color: #EEEEEE;
+}
+
+#expl-create-container
+{
+
+}
+
+#expl-part-container
+{
+
+}
+
+.explain-participation-icon
+{
+	height: 200px;
+	width: 200px;
+}
+
+.explain-participation-text
+{
+	font-family: amatics;
+	font-weight: bold;
+	color: #1890ff;
+	margin-top: 20px;
+	text-align: center;
+}
+
+.explain-create-container
+{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+#featured-section-container
+{
+	background-color: #EEEEEE;
+	padding-bottom: 1rem;
+}
+
+#done-section-container
+{
+	background-color: #EEEEEE;
+	padding-bottom: 50px;
+}
+
+.card-meta
+{
+	margin: 10px 10px 10px 10px;
+}
+
+.card-meta-icon
+{
+	margin-right: 10px;
+}
+
+.card-meta-star-icon
+{
+	font-size: 20px;
+}
+
+@media only screen and (max-width:600px)
+{
+	#search-section-title
+	{
+		font-size: 3rem;
+	}
+
+	#search-section-detail-1
+	{
+		font-size: 1.5rem;
+	}
+}

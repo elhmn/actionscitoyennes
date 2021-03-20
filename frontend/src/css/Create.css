@@ -1,0 +1,14 @@
+#create-content-page
+{
+	min-height: 600px;
+}
+
+#create-action-container
+{
+	min-height: 600px;
+}
+
+.toggle-after-button
+{
+	border-color: red;
+}

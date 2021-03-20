@@ -1,0 +1,14 @@
+#login-form
+{
+    min-height: 800px;
+}
+
+.forgot-password
+{
+	float: right;
+}
+
+.btn-black
+{
+	background-color: black;
+}

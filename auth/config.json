@@ -1,0 +1,15 @@
+{
+	"authDBHost" : "",
+	"apiDBHost" : "",
+	"apiDBHostPort" : "",
+	"apiDBUserName" : "",
+	"authDBUserName" : "",
+ 	"apiDBPassword" : "",
+ 	"authDBPassword" : "",
+	"apiDBName" : "",
+	"authDBName" : "",
+	"userTable" : "",
+	"testApiKey" : "",
+	"tokenTable" : "",
+	"tokenLength" : ""
+}

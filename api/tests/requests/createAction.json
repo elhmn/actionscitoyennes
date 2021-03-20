@@ -1,0 +1,13 @@
+{
+	"title" : "Nettoyage",
+	"street" : "ndokoti",
+	"address_info" : "237 douala",
+	"postal_code" : "237",
+	"city" : "Douala",
+	"country" : "Cameroun",
+	"description" : "test",
+	"date" : "2018-09-25",
+	"time" : 100000,
+	"duration" : 40000,
+	"user_id" : 1
+}

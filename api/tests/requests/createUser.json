@@ -1,0 +1,14 @@
+{
+	"login" : "B-Tone",
+	"firstname" : "Boris",
+	"lastname" : "Mbarga",
+ 	"password" : "password",
+	"email" : "bmbarga@email.com",
+	"city" : "Stuttgart",
+	"country" : "Germany",
+	"bio" : "Je suis con",
+	"picture" : "",
+	"phonenumber" : "092299344",
+	"signupdate" : "",
+	"gender" : "male"
+}

@@ -1,0 +1,14 @@
+{
+	"login" : "Rick",
+	"firstname" : "Rick",
+	"lastname" : "Morty",
+ 	"password" : "password",
+	"email" : "rick@email.com",
+	"city" : "",
+	"country" : "",
+	"bio" : "",
+	"picture" : "",
+	"phonenumber" : "092299344",
+	"signupdate" : "",
+	"gender" : "IDK"
+}

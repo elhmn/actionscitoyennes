@@ -1,0 +1,51 @@
+{
+	"token": "token",
+	"action" :
+	{
+		"title" : "Nettoyage",
+		"address" : "237 douala",
+		"street" : "ndokoti",
+		"postal_code" : "237",
+		"city" : "Douala",
+		"country" : "Cameroun",
+		"description" : "my description",
+		"date" : "2018-09-25",
+		"time" : 100000,
+		"duration" : 40000,
+
+		"participants" : {
+			"required": 1
+		},
+
+		"pictures" : [
+			{"url" : "image_1.jpg"},
+			{"url" : "image_2.jpg"}
+		],
+
+		"materials" : [
+			{"title" : "brouette", "required" : 1, "unit": "none"},
+			{"title" : "sable", "required" : 1, "unit": "kg"}
+		]
+	},
+	"extra" : {
+		"title" : "Nettoyage",
+		"address" : "237 douala",
+		"street" : "ndokoti",
+		"postal_code" : "237",
+		"city" : "Douala",
+		"country" : "Cameroun",
+		"description" : "my description",
+		"date" : "2018-09-25",
+		"time" : 100000,
+		"duration" : 40000,
+		"pictures" : [
+			{"url" : "image_1.jpg"},
+			{"url" : "image_2.jpg"}
+		],
+
+		"materials" : [
+			{"title" : "brouette extra", "required" : 1, "unit": "none"},
+			{"title" : "sable extra", "required" : 1, "unit": "kg"}
+		]
+	}
+}

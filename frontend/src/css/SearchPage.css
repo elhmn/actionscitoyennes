@@ -1,0 +1,18 @@
+#search-top-bar
+{
+	background-color: #EEEEEE;
+	min-height: 100px;
+}
+
+.search-top-bar-element
+{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#action-list-section-container
+{
+	margin-bottom: 100px;
+	margin-top: 25px;
+	min-height: 800px;
+}

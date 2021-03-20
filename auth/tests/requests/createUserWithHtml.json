@@ -1,0 +1,14 @@
+{
+	"login" : "<input name='user1'/>",
+	"firstname" : "<script> (() => { console.log('je suis con');})()</script>Boris",
+	"lastname" : "Mbarga",
+	"password" : "password",
+	"email" : "bmbarga@email.com",
+	"city" : "Yaounde",
+	"country" : "Cameroun",
+	"bio" : "Je suis con",
+	"picture" : "",
+	"phonenumber" : "092299344",
+	"signupdate" : "10",
+	"gender" : "male"
+}

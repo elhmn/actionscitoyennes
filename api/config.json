@@ -1,0 +1,17 @@
+{
+	"apiDBUserName" : "",
+	"authDBUserName" : "",
+ 	"apiDBPassword" : "",
+ 	"authDBPassword" : "",
+	"authDBHost" : "",
+	"apiDBHost" : "",
+	"apiDBHostPort" : "",
+	"authHostName" : "",
+	"dbUserName" : "",
+ 	"dbPassword" : "",
+	"apiDBName" : "",
+	"authDBName" : "",
+	"testApiKey" : "",
+	"emailAddress" : "",
+	"frontendHostName" : ""
+}

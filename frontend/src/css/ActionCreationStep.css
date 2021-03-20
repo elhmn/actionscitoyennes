@@ -1,0 +1,10 @@
+.steps-content {
+	border-radius: 6px;
+	min-height: 200px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.steps-action {
+	margin-top: 24px;
+}

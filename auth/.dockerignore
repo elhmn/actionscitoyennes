@@ -1,0 +1,7 @@
+.git*
+tags
+tests
+Dockerfile
+.*sw*
+sql
+README.md
